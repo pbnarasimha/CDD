@@ -1,0 +1,12 @@
+git init
+git clone (link paste chy)
+cd (repositorylo link lo vunna name)
+git status
+cat hello.txt
+notepad hello.txt
+ls
+cat hello.txt
+git status
+git add hello.txt
+git commit -m "v1.3"
+git push
